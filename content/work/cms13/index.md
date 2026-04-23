@@ -23,8 +23,12 @@ Optimizely CMS 13 is the latest major version of the Optimizely Content Manageme
 - [[what-is-cms13|What is CMS 13?]]
 - [[upgrading-from-cms12|Upgrading from CMS 12]]
 - [[dotnet-compatibility|.NET Compatibility]]
+- [[cms-rest-api|CMS REST API v1]]
+- [[translations|Translations & Localization]]
 - [[removing-unused-properties|Removing Unused Properties]]
 - [[custom-admin-tools|Building Custom Admin Tools]]
+- [[ai-assistant|AI Assistant v4]]
+- [[debugging-dxp|Debugging in DXP]]
 - [[cms13-resources|Resources & Links]]
 
 ## Sources to Watch
