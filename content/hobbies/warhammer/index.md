@@ -11,9 +11,9 @@ Warhammer 40,000 (40K) is a tabletop miniature wargame set in a dark science-fan
 
 ## Current Edition
 
-**10th Edition** — released June 2023. Streamlined rules compared to 9th, new army roster system, free core rules.
+**11th Edition** — announced AdeptiCon March 2026, releasing **Summer 2026**. Launch box: Space Marines vs. Orks (Armageddon).
 
-> 11th Edition tracking page coming — see [[11th-edition|What We Know About 11th Edition]].
+> See [[11th-edition|11th Edition — Confirmed Changes]] for terrain, combat, and charging rule details.
 
 ## My Factions
 
