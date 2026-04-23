@@ -9,7 +9,7 @@ A personal knowledge hub for the things I'm learning, building, and exploring.
 ## Sections
 
 - [[work/index|Work]] — Optimizely CMS, C#, frontend development
-- Hobbies *(coming soon)*
+- [[hobbies/index|Hobbies]] — Warhammer 40,000 and more
 - Personal *(coming soon)*
 - Goals *(coming soon)*
 
